@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Longo
-- 👀 Building with Claude inside VS Code
-- 🌱 I’m currently learning the next cool thing :)
+- 👀 Vibe coding with Claude like a heathen
+- 🌱 I make personalized PWAs for myself and friends
 
 <!---
 R-Longo/R-Longo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
